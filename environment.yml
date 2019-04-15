@@ -1,0 +1,8 @@
+name: my_data_science_playroom
+channels:
+  - defaults
+dependencies:
+  - jupyter=1.0.0=py37_7
+  - matplotlib=3.0.3=py37h54f8f79_0
+  - numpy=1.16.2=py37hacdab7b_0
+  - scikit-learn=0.20.3=py37h27c97d8_0
